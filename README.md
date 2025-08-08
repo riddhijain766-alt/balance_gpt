@@ -10,7 +10,7 @@ This is a Streamlit-based ChatGPT assistant for financial analysts and top manag
 - Publicly fetches Reliance balance sheet data
 
 ## Public Deployment
-👉 [Streamlit App Link](https://your-username.streamlit.app)
+👉 [Streamlit App Link](https://balancegpt-hnehtxxxtu7mvqrscahlo9.streamlit.app/)
 
 ## How to Run Locally
 
@@ -18,4 +18,4 @@ This is a Streamlit-based ChatGPT assistant for financial analysts and top manag
 git clone https://github.com/your-username/balance-gpt.git
 cd balance-gpt
 pip install -r requirements.txt
-streamlit run app/main.py
+streamlit run main.py
